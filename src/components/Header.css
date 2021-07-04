@@ -1,0 +1,29 @@
+.header{
+    text-align: center;
+    font-family:"open_sans_hebrewregular", "alefregular",arial,"Times New Roman";
+    color:gray;
+    overflow:auto;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 95px;
+    display:flex;
+    align-items: center;
+    
+    }
+    .class1{
+      width:20%;
+      display:inline-block;
+      border:1px solid #c4c4c4;
+      height:70px;
+      margin:4px;
+      padding: 1em;
+      border-radius: 5%;
+    
+    }
+    .class1 >img {
+      width: 30px;
+      height: 30px;
+    }
+    .class1  p{
+      font-size: 12px;
+    }

@@ -1,0 +1,217 @@
+.pricingnew--sell {
+  padding: 100px 0;
+}
+.odkni--container {
+  width: 90%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pricingnew--sell .text-wrap {
+  text-align: center;
+  max-width: 625px;
+  margin: 0 auto;
+}
+.pricingnew--sell .text-wrap h2 {
+  font-size: 32px;
+  margin: 0 0 15px 0;
+  line-height: 1.2em;
+}
+.pricingnew--sell .text-wrap p {
+  max-width: 456px;
+  color: #525975;
+  margin: auto;
+}
+.pricingnew--sell h6 {
+  font-size: 14px;
+  color: #7f92a4;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 60px 0 30px;
+}
+.pn-table-wrap {
+  border: 1px solid #d2e7fa;
+  border-radius: 0px 18px 18px 18px;
+  width: 100%;
+  display: flex;
+}
+.pn-table-wrap .col-l,
+.pn-table-wrap .col-r {
+  width: 50%;
+  padding: 36px 30px 0;
+}
+.pn-table-wrap .pn-table-row.top {
+  border-bottom: 4px solid #d2e7fa;
+  padding-bottom: 20px;
+}
+.pn-table-wrap .col-l .colored-text {
+  color: #65c6ac;
+}
+.pn-table-wrap .pn-table-row.top p {
+  font-size: 14px;
+  color: #526475;
+}
+.pn-table-wrap ul {
+  margin: 25px 0;
+  padding: 0;
+}
+
+.pn-table-wrap li {
+  position: relative;
+  padding-left: 30px;
+  list-style: none;
+  color: #002247;
+  font-weight: 600;
+  font-size: 14px;
+}
+.pn-table-wrap li svg {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 16px;
+  display: block;
+}
+.pn-table-wrap .pn-table-row.list {
+  display: flex;
+  padding: 25px 0;
+  justify-content: space-between;
+}
+.pn-table-wrap .pn-table-row {
+  border-bottom: 1px solid #d2e7fa;
+  position: relative;
+}
+.pn-table-wrap .cell-l,
+.pn-table-wrap .cell-r {
+  display: flex;
+  align-items: center;
+}
+.pn-table-wrap .cell-l p {
+  color: #002247;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 0 20px 0 0;
+  padding-right: 26px;
+  position: relative;
+}
+.pn-table-note {
+  margin-top: 35px;
+}
+.pn-table-note p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 16px;
+  color: #526475;
+}
+.pn-table-wrap .col-r {
+  background: #eef4fa;
+  border-radius: 0px 18px 18px 0;
+}
+
+.pn-table-wrap .col-r .colored-text {
+  color: #1c85e8;
+}
+.pn-table-wrap h3 {
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 29px;
+  margin: 0 0 25px 0;
+}
+pn-table-wrap .pn-table-row.top p {
+  font-size: 14px;
+  color: #526475;
+}
+.pn-table-wrap ul {
+  margin: 25px 0;
+  padding: 0;
+}
+.pn-table-wrap .pn-table-row.list {
+  display: flex;
+  padding: 25px 0;
+  justify-content: space-between;
+}
+.pn-table-wrap .cell-l,
+.pn-table-wrap .cell-r {
+  display: flex;
+  align-items: center;
+}
+.pn-table-wrap .cell-l p {
+  color: #002247;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 0 20px 0 0;
+  padding-right: 26px;
+  position: relative;
+}
+.pn-table-wrap .cell-r {
+  text-align: right;
+}
+.pn-table-wrap .cell-r {
+  text-align: right;
+}
+.pn-table-note p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 16px;
+  color: #526475;
+}
+.pn-table-wrap .cell-l .tooltip-icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 16px;
+  display: block;
+  cursor: pointer;
+}
+.pn-table-wrap .pn-table-row .tooltip-icon {
+  user-select: none;
+}
+.pn-table-wrap .pn-table-row .tooltip-icon.is-active .tooltips-box {
+  display: block;
+  left: -10px;
+
+  position: absolute;
+  display: block;
+  top: 29px;
+  left: -10px;
+  width: 90vw;
+  max-width: 287px;
+  padding: 15px;
+  background: #002247;
+  z-index: 10;
+  border-radius: 4px;
+  font-size: 12px;
+  line-height: 18px;
+  color: #fff;
+  font-weight: normal;
+  display: none;
+}
+.__react_component_tooltip {
+  font-size: 13px;
+  pointer-events: none;
+  visibility: hidden;
+  position: absolute;
+display: block;
+top: 29px;
+left: -20px;
+width: 90vw;
+max-width: 287px;
+padding: 15px;
+background: #002247;
+z-index: 10;
+border-radius: 4px;
+font-size: 12px;
+line-height: 18px;
+color: #fff;
+font-weight: normal;
+display: none;
+}
+.pn-table-note p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 16px;
+  color: #526475;
+  text-align: justify;
+}
